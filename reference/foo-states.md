@@ -2,6 +2,7 @@ NFA
 ---
 The following diagrams illustrate a `State` structure for 'foo'
 
+```
 0x0000000100500020
 +---------------------------+
 | State:                    |
@@ -36,3 +37,4 @@ The following diagrams illustrate a `State` structure for 'foo'
 | | lastlist = 0              | |
 | +---------------------------+ |
 +-------------------------------+
+```
