@@ -1,4 +1,4 @@
-NFA for the regexp 'foo'
+NFA
 ---
 The following diagrams illustrate a `State` structure for 'foo'
 
